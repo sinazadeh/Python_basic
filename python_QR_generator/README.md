@@ -1,6 +1,4 @@
 # QR Generator
-Rename conf-sample.ini to conf.ini and put your information in the file.
-
 # Installation
 * Install Segno (pip install segno)
 
